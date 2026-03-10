@@ -1,0 +1,6 @@
+*   8145fb7 solusi dari merge conflict antara v1 dan v2
+|\  
+| * 412b5e1 versi 1
+* | ce5a02d versi 2
+|/  
+* ce76aa7 inisiasi github
